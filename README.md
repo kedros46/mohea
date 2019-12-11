@@ -1,18 +1,23 @@
 # Mohea, Plane of Adventures
-###### Software: [[Magic Set Editor]](http://magicseteditor.sourceforge.net/download)
+###### Software: [[Magic Set Editor]](http://magicseteditor.boards.net/page/downloads)
 ###### GitHub GUI: [[Download]](https://central.github.com/deployments/desktop/desktop/latest/win32)
 
 Quick Guide:
-1. Download the editor from [[Magic Set Editor]](http://magicseteditor.sourceforge.net/download)
-2. Install the download to somewhere in C:\Users\<username>\Documents\
-## NOTE: change the installation folder to somewhere other than C:\Programs Files\ !! other downloads won't work if you do!
-## Example location C:\Users\<username>\Documents\MagicTheGatheringEditor
 
-3. Download and execute the following links
-http://sourceforge.net/projects/msetemps/files/Updates%20by%20Date/Magic%20Update%20-%20September%209th%202015.mse-installer/download
-http://sourceforge.net/projects/msetemps/files/Magic%20-%20Recently%20Printed%20Styles.mse-installer/download
+##MSE
 
-You now have a working Editor with the required templates.
+1. Download the editor from [[Magic Set Editor]](http://magicseteditor.boards.net/page/downloads)
+2. unzip the download in a folder of your choice where you can find it.
+3. open the mse.exe
+4. within the MSE app, open the set from the local git repo
+5. start working
+
+##GITHUB
+
+1. Download Github UI from [[Download]](https://central.github.com/deployments/desktop/desktop/latest/win32) and install it.
+2. create a github account and log into the app
+3. Ctrl + shift + O -> Tab Url -> put in "https://github.com/jay-tux/mohea.git" into the URL field and configure a path to download the repo to. (ex. "C:\Users\<user>\Documents\MTG\")
+4. In this new map, you'll find file "Mohea_PlaneOfAdventures.mse-set". Double click it and start editing
 
 
 Export cards only to the img/ directory.
